@@ -20,8 +20,8 @@
 ## 기술 스택
 * **Framework:** Flutter
 * **Language:** Dart
-* **Core Plugins:** * `perfect_volume_control` (기기 볼륨 강제 제어)
-  * `audioplayers` (오디오 무한 루프 재생)
+* **Core Plugins:** * `perfect_volume_control`
+  * `audioplayers` 
 
 ---
 
@@ -35,7 +35,7 @@
 2. 터미널을 열고 아래 명령어를 입력하여 앱을 단독 실행 모드로 심어줍니다.
    ```bash
    flutter run --release
-```
+   ```
 3. 설치가 완료되면 선을 뽑고 자연스럽게 폰을 돌려줍니다.
 
 ## 🤖 2. 안드로이드 (Android)
